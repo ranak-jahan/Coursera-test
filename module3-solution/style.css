@@ -1,0 +1,43 @@
+*{
+    font-family: 'Sansita', sans-serif;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.navbar{
+  
+    background-color: aqua;
+}
+.navbar span{
+    font-size: 30px;
+    margin-left: 50px;
+    font-weight: 700;
+
+}
+.headline{
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.item{
+    background-color: aquamarine;
+    margin: 0px 10px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.item-heading{
+    text-align: center;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+#nav-list > li {
+    text-align: center;
+}
+
+
+
+
+  
+
+  
